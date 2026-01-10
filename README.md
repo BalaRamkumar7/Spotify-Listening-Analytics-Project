@@ -1,5 +1,5 @@
 ## Overview
-This project analyzes my personal Spotify listening history to identify trends in music preferences and listening behavior over time. Using Spotify’s official personal data export, Python for data processing and analysis, and Power BI for visualization, I built an interactive dashboard that transforms raw streaming logs into meaningful insights. The project demonstrates an end-to-end data analytics workflow using a real-world dataset.
+This project analyzes my personal Spotify listening history to identify trends in music preferences and listening behavior over time. Using Spotify’s official personal data export, Python for data processing and analysis, and Power BI for visualization, I built an interactive dashboard that transforms raw streaming logs into meaningful insights. The project demonstrates an end-to-end data analytics workflow using a real-world dataset. The listening data is as of December 23rd, 2025.
 
 ## Final Dashboard
 <img width="1256" height="714" alt="image" src="https://github.com/user-attachments/assets/7a109f72-fe79-4a02-a637-1959d770762d" />
